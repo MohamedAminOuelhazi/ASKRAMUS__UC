@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ASKRAMUS__UC/static/css/main.81215846.css",
+    "main.js": "/ASKRAMUS__UC/static/js/main.fd1c5ce7.js",
+    "static/js/787.fca25455.chunk.js": "/ASKRAMUS__UC/static/js/787.fca25455.chunk.js",
+    "static/media/rectangle-4-1.png": "/ASKRAMUS__UC/static/media/rectangle-4-1.ed3a154a679d29e1f64b.png",
+    "static/media/rectangle-4-3.png": "/ASKRAMUS__UC/static/media/rectangle-4-3.a55b66f96a7900fd1999.png",
+    "static/media/rectangle-4-2.png": "/ASKRAMUS__UC/static/media/rectangle-4-2.c0cb637fd8b880664327.png",
+    "index.html": "/ASKRAMUS__UC/index.html",
+    "static/media/Ellipse_j_k.svg": "/ASKRAMUS__UC/static/media/Ellipse_j_k.4a63b9bc81d3e0d313b3.svg",
+    "static/media/Ellipse_r_k.svg": "/ASKRAMUS__UC/static/media/Ellipse_r_k.49dc52c506cba7e82a11.svg",
+    "static/media/Ellipse_j_s.svg": "/ASKRAMUS__UC/static/media/Ellipse_j_s.4fc1f137621e6960b4dd.svg",
+    "static/media/Ellipse_r_s.svg": "/ASKRAMUS__UC/static/media/Ellipse_r_s.9b369078f28ceeb25f29.svg",
+    "main.81215846.css.map": "/ASKRAMUS__UC/static/css/main.81215846.css.map",
+    "main.fd1c5ce7.js.map": "/ASKRAMUS__UC/static/js/main.fd1c5ce7.js.map",
+    "787.fca25455.chunk.js.map": "/ASKRAMUS__UC/static/js/787.fca25455.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81215846.css",
+    "static/js/main.fd1c5ce7.js"
+  ]
+}
