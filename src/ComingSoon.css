@@ -1,0 +1,22 @@
+.coming-soon-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f2f2f2;
+    color: #e7bd51;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px; /* Ajustez la largeur de votre logo selon vos besoins */
+    height: 200px; /* Ajustez la hauteur de votre logo selon vos besoins */
+}
+h1 {
+    padding-top: 5cm;
+    font-size: 36px;
+    margin-top: 20px;
+}
